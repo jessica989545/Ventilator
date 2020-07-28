@@ -1,23 +1,3 @@
-// ---------------------------------------------------------------------------
-// *                        www.apsis-solutions.com
-// *               Copyright (c) Apsis Solutions, Bangalore
-// *--------------------------------------------------------------------------
-// *    Project         : Generic
-// *    Module          : Project Main
-// *    Description     : Project Starts Here
-// *
-// *    Author          : Ajith Kirlaya
-// *    Workfile        : Projectmain.c
-// *    Revision        : 2.0
-// *    Last changed on : Date: 2017-10-08
-// *
-// *    Last changed by : Nitin Awasthi - +91-9880221378
-// *    Last changed on : Date: 2019-11-19
-// *
-// *    Last changed by : Chiranjit Gorai
-// *    Last changed on : Date: 2020-04-13
-// *--------------------------------------------------------------------------
-
 #include <p18f46k22.h>
 #include <stdio.h>
 #include <string.h>
